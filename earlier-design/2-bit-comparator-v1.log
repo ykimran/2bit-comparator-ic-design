@@ -1,0 +1,415 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net
+Start Time: Sun May 24 00:21:41 2026
+Options:ALLOW_AMBIGUOUS_MODELS
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(87): Ignoring unknown model parameter. This may or may not be a problem.
++xw=  0                    binflag=  0
++Dwg= 0.00                 Dwb= 0.00
+                           ^^^^^^^^^^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(132): Ignoring unknown model parameter. This may or may not be a problem.
++binflag=  0               Dwg= 0.00                   Dwb= 0.00
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(135): Ignoring unknown model parameter. This may or may not be a problem.
++rsc= 0                    rdc= 0
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(135): Ignoring unknown model parameter. This may or may not be a problem.
++rsc= 0                    rdc= 0
++K1= 0.5560000             K2= 0.00
+                           ^^^^^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(3): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M1 A0- A0 0 N018 NMOS l=180n w=400n
+                 ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(4): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M2 Vdd A0 A0- N011 PMOS l=180n w=400n
+                   ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(5): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M3 B0- B0 0 N047 NMOS l=180n w=400n
+                 ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(6): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M4 Vdd B0 B0- N040 PMOS l=180n w=400n
+                   ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(7): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M5 A1- A1 0 N033 NMOS l=180n w=400n
+                 ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(8): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M6 Vdd A1 A1- N027 PMOS l=180n w=400n
+                   ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(9): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M7 B1- B1 0 N062 NMOS l=180n w=400n
+                 ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(10): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M8 Vdd B1 B1- N057 PMOS l=180n w=400n
+                   ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(16): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M11 Vdd A0- N007 N003 PMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(17): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M12 Vdd B0 N007 N004 PMOS l=180n w=400n
+                     ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(18): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M13 N007 A0- N012 N010 NMOS l=180n w=400n
+                       ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(19): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M14 N012 B0 0 N017 NMOS l=180n w=400n
+                   ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(20): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M15 A0-B0 N007 0 N009 NMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(21): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M16 Vdd N007 A0-B0 N006 PMOS l=180n w=400n
+                        ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(22): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M17 Vdd A0 N024 N019 PMOS l=180n w=400n
+                     ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(23): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M18 Vdd B0- N024 N020 PMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(24): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M19 N024 A0 N032 N030 NMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(25): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M20 N032 B0- 0 N034 NMOS l=180n w=400n
+                    ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(26): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M21 A0B0- N024 0 N029 NMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(27): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M22 Vdd N024 A0B0- N023 PMOS l=180n w=400n
+                        ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(28): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M23 Vdd A1- N046 N038 PMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(29): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M24 Vdd B1 N046 N039 PMOS l=180n w=400n
+                     ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(30): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M25 N046 A1- N050 N049 NMOS l=180n w=400n
+                       ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(31): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M26 N050 B1 0 N053 NMOS l=180n w=400n
+                   ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(32): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M27 A1-B1 N046 0 N048 NMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(33): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M28 Vdd N046 A1-B1 N045 PMOS l=180n w=400n
+                        ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(34): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M29 Vdd A1 N063 N058 PMOS l=180n w=400n
+                     ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(35): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M30 Vdd B1- N063 N059 PMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(36): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M31 N063 A1 N069 N068 NMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M32 N069 B1- 0 N074 NMOS l=180n w=400n
+                    ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M33 A1B1- N063 0 N066 NMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M34 Vdd N063 A1B1- N061 PMOS l=180n w=400n
+                        ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M51 Vdd A0-B0 P001 N001 PMOS l=180n w=400n
+                        ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(41): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M52 P001 A0B0- P002 N002 PMOS l=180n w=400n
+                         ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(42): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M53 P002 A1-B1 P003 N005 PMOS l=180n w=400n
+                         ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(43): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M54 P003 A1B1- AequalB N008 PMOS l=180n w=400n
+                            ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(44): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M55 AequalB A0-B0 0 N013 NMOS l=180n w=400n
+                         ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(45): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M56 AequalB A0B0- 0 N014 NMOS l=180n w=400n
+                         ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(46): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M57 AequalB A1-B1 0 N015 NMOS l=180n w=400n
+                         ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(47): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M58 AequalB A1B1- 0 N016 NMOS l=180n w=400n
+                         ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(48): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M59 Vdd A1 P004 N021 PMOS l=180n w=400n
+                     ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(49): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M60 P004 B1- A<B N025 PMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(50): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M61 Vdd A0 P005 N022 PMOS l=180n w=400n
+                     ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(51): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M62 P005 B0- P006 N026 PMOS l=180n w=400n
+                       ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(52): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M63 P006 A1-B1 P007 N028 PMOS l=180n w=400n
+                         ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(53): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M64 P007 A1B1- A<B N031 PMOS l=180n w=400n
+                        ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(54): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M65 A<B A1 N037 N035 NMOS l=180n w=400n
+                     ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(55): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M66 A<B B1- N037 N036 NMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(56): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M67 N037 A0 0 N041 NMOS l=180n w=400n
+                   ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(57): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M68 N037 B0- 0 N042 NMOS l=180n w=400n
+                    ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(58): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M69 N037 A1-B1 0 N043 NMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(59): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M70 N037 A1B1- 0 N044 NMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(60): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M71 Vdd A1- P008 N051 PMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(61): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M72 P008 B1 A>B N054 PMOS l=180n w=400n
+                     ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(62): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M73 Vdd A0- P009 N052 PMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(63): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M74 P009 B0 P010 N055 PMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(64): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M75 P010 A1-B1 P011 N056 PMOS l=180n w=400n
+                         ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(65): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M76 P011 A1B1- A>B N060 PMOS l=180n w=400n
+                        ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(66): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M77 A>B A1- N067 N064 NMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(67): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M78 A>B B1 N067 N065 NMOS l=180n w=400n
+                     ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(68): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M79 N067 A0- 0 N070 NMOS l=180n w=400n
+                    ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(69): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M80 N067 B0 0 N071 NMOS l=180n w=400n
+                   ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(70): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M81 N067 A1-B1 0 N072 NMOS l=180n w=400n
+                      ^^^^
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net(71): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M82 N067 A1B1- 0 N073 NMOS l=180n w=400n
+                      ^^^^
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node n018 is floating.
+WARNING: Node n011 is floating.
+WARNING: Node n047 is floating.
+WARNING: Node n040 is floating.
+WARNING: Node n033 is floating.
+WARNING: Node n027 is floating.
+WARNING: Node n062 is floating.
+WARNING: Node n057 is floating.
+WARNING: Node n003 is floating.
+WARNING: Node n004 is floating.
+WARNING: Node n010 is floating.
+WARNING: Node n017 is floating.
+WARNING: Node n009 is floating.
+WARNING: Node n006 is floating.
+WARNING: Node n019 is floating.
+WARNING: Node n020 is floating.
+WARNING: Node n030 is floating.
+WARNING: Node n034 is floating.
+WARNING: Node n029 is floating.
+WARNING: Node n023 is floating.
+WARNING: Node n038 is floating.
+WARNING: Node n039 is floating.
+WARNING: Node n049 is floating.
+WARNING: Node n053 is floating.
+WARNING: Node n048 is floating.
+WARNING: Node n045 is floating.
+WARNING: Node n058 is floating.
+WARNING: Node n059 is floating.
+WARNING: Node n068 is floating.
+WARNING: Node n074 is floating.
+WARNING: Node n066 is floating.
+WARNING: Node n061 is floating.
+WARNING: Node n001 is floating.
+WARNING: Node n002 is floating.
+WARNING: Node n005 is floating.
+WARNING: Node n008 is floating.
+WARNING: Node n013 is floating.
+WARNING: Node n014 is floating.
+WARNING: Node n015 is floating.
+WARNING: Node n016 is floating.
+WARNING: Node n021 is floating.
+WARNING: Node n025 is floating.
+WARNING: Node n022 is floating.
+WARNING: Node n026 is floating.
+WARNING: Node n028 is floating.
+WARNING: Node n031 is floating.
+WARNING: Node n035 is floating.
+WARNING: Node n036 is floating.
+WARNING: Node n041 is floating.
+WARNING: Node n042 is floating.
+WARNING: Node n043 is floating.
+WARNING: Node n044 is floating.
+WARNING: Node n051 is floating.
+WARNING: Node n054 is floating.
+WARNING: Node n052 is floating.
+WARNING: Node n055 is floating.
+WARNING: Node n056 is floating.
+WARNING: Node n060 is floating.
+WARNING: Node n064 is floating.
+WARNING: Node n065 is floating.
+WARNING: Node n070 is floating.
+WARNING: Node n071 is floating.
+WARNING: Node n072 is floating.
+WARNING: Node n073 is floating.
+
+Instance "M1": Length shorter than recommended for a level 1 MOSFET.
+Instance "M1": Width narrower than recommended for a level 1 MOSFET.
+Instance "M3": Length shorter than recommended for a level 1 MOSFET.
+Instance "M3": Width narrower than recommended for a level 1 MOSFET.
+Instance "M5": Length shorter than recommended for a level 1 MOSFET.
+Instance "M5": Width narrower than recommended for a level 1 MOSFET.
+Instance "M7": Length shorter than recommended for a level 1 MOSFET.
+Instance "M7": Width narrower than recommended for a level 1 MOSFET.
+Instance "M13": Length shorter than recommended for a level 1 MOSFET.
+Instance "M13": Width narrower than recommended for a level 1 MOSFET.
+Instance "M14": Length shorter than recommended for a level 1 MOSFET.
+Instance "M14": Width narrower than recommended for a level 1 MOSFET.
+Instance "M15": Length shorter than recommended for a level 1 MOSFET.
+Instance "M15": Width narrower than recommended for a level 1 MOSFET.
+Instance "M19": Length shorter than recommended for a level 1 MOSFET.
+Instance "M19": Width narrower than recommended for a level 1 MOSFET.
+Instance "M20": Length shorter than recommended for a level 1 MOSFET.
+Instance "M20": Width narrower than recommended for a level 1 MOSFET.
+Instance "M21": Length shorter than recommended for a level 1 MOSFET.
+Instance "M21": Width narrower than recommended for a level 1 MOSFET.
+Instance "M25": Length shorter than recommended for a level 1 MOSFET.
+Instance "M25": Width narrower than recommended for a level 1 MOSFET.
+Instance "M26": Length shorter than recommended for a level 1 MOSFET.
+Instance "M26": Width narrower than recommended for a level 1 MOSFET.
+Instance "M27": Length shorter than recommended for a level 1 MOSFET.
+Instance "M27": Width narrower than recommended for a level 1 MOSFET.
+Instance "M31": Length shorter than recommended for a level 1 MOSFET.
+Instance "M31": Width narrower than recommended for a level 1 MOSFET.
+Instance "M32": Length shorter than recommended for a level 1 MOSFET.
+Instance "M32": Width narrower than recommended for a level 1 MOSFET.
+Instance "M33": Length shorter than recommended for a level 1 MOSFET.
+Instance "M33": Width narrower than recommended for a level 1 MOSFET.
+Instance "M55": Length shorter than recommended for a level 1 MOSFET.
+Instance "M55": Width narrower than recommended for a level 1 MOSFET.
+Instance "M56": Length shorter than recommended for a level 1 MOSFET.
+Instance "M56": Width narrower than recommended for a level 1 MOSFET.
+Instance "M57": Length shorter than recommended for a level 1 MOSFET.
+Instance "M57": Width narrower than recommended for a level 1 MOSFET.
+Instance "M58": Length shorter than recommended for a level 1 MOSFET.
+Instance "M58": Width narrower than recommended for a level 1 MOSFET.
+Instance "M65": Length shorter than recommended for a level 1 MOSFET.
+Instance "M65": Width narrower than recommended for a level 1 MOSFET.
+Instance "M66": Length shorter than recommended for a level 1 MOSFET.
+Instance "M66": Width narrower than recommended for a level 1 MOSFET.
+Instance "M67": Length shorter than recommended for a level 1 MOSFET.
+Instance "M67": Width narrower than recommended for a level 1 MOSFET.
+Instance "M68": Length shorter than recommended for a level 1 MOSFET.
+Instance "M68": Width narrower than recommended for a level 1 MOSFET.
+Instance "M69": Length shorter than recommended for a level 1 MOSFET.
+Instance "M69": Width narrower than recommended for a level 1 MOSFET.
+Instance "M70": Length shorter than recommended for a level 1 MOSFET.
+Instance "M70": Width narrower than recommended for a level 1 MOSFET.
+Instance "M77": Length shorter than recommended for a level 1 MOSFET.
+Instance "M77": Width narrower than recommended for a level 1 MOSFET.
+Instance "M78": Length shorter than recommended for a level 1 MOSFET.
+Instance "M78": Width narrower than recommended for a level 1 MOSFET.
+Instance "M79": Length shorter than recommended for a level 1 MOSFET.
+Instance "M79": Width narrower than recommended for a level 1 MOSFET.
+Instance "M80": Length shorter than recommended for a level 1 MOSFET.
+Instance "M80": Width narrower than recommended for a level 1 MOSFET.
+Instance "M81": Length shorter than recommended for a level 1 MOSFET.
+Instance "M81": Width narrower than recommended for a level 1 MOSFET.
+Instance "M82": Length shorter than recommended for a level 1 MOSFET.
+Instance "M82": Width narrower than recommended for a level 1 MOSFET.
+Instance "M2": Length shorter than recommended for a level 1 MOSFET.
+Instance "M2": Width narrower than recommended for a level 1 MOSFET.
+Instance "M4": Length shorter than recommended for a level 1 MOSFET.
+Instance "M4": Width narrower than recommended for a level 1 MOSFET.
+Instance "M6": Length shorter than recommended for a level 1 MOSFET.
+Instance "M6": Width narrower than recommended for a level 1 MOSFET.
+Instance "M8": Length shorter than recommended for a level 1 MOSFET.
+Instance "M8": Width narrower than recommended for a level 1 MOSFET.
+Instance "M11": Length shorter than recommended for a level 1 MOSFET.
+Instance "M11": Width narrower than recommended for a level 1 MOSFET.
+Instance "M12": Length shorter than recommended for a level 1 MOSFET.
+Instance "M12": Width narrower than recommended for a level 1 MOSFET.
+Instance "M16": Length shorter than recommended for a level 1 MOSFET.
+Instance "M16": Width narrower than recommended for a level 1 MOSFET.
+Instance "M17": Length shorter than recommended for a level 1 MOSFET.
+Instance "M17": Width narrower than recommended for a level 1 MOSFET.
+Instance "M18": Length shorter than recommended for a level 1 MOSFET.
+Instance "M18": Width narrower than recommended for a level 1 MOSFET.
+Instance "M22": Length shorter than recommended for a level 1 MOSFET.
+Instance "M22": Width narrower than recommended for a level 1 MOSFET.
+Instance "M23": Length shorter than recommended for a level 1 MOSFET.
+Instance "M23": Width narrower than recommended for a level 1 MOSFET.
+Instance "M24": Length shorter than recommended for a level 1 MOSFET.
+Instance "M24": Width narrower than recommended for a level 1 MOSFET.
+Instance "M28": Length shorter than recommended for a level 1 MOSFET.
+Instance "M28": Width narrower than recommended for a level 1 MOSFET.
+Instance "M29": Length shorter than recommended for a level 1 MOSFET.
+Instance "M29": Width narrower than recommended for a level 1 MOSFET.
+Instance "M30": Length shorter than recommended for a level 1 MOSFET.
+Instance "M30": Width narrower than recommended for a level 1 MOSFET.
+Instance "M34": Length shorter than recommended for a level 1 MOSFET.
+Instance "M34": Width narrower than recommended for a level 1 MOSFET.
+Instance "M51": Length shorter than recommended for a level 1 MOSFET.
+Instance "M51": Width narrower than recommended for a level 1 MOSFET.
+Instance "M52": Length shorter than recommended for a level 1 MOSFET.
+Instance "M52": Width narrower than recommended for a level 1 MOSFET.
+Instance "M53": Length shorter than recommended for a level 1 MOSFET.
+Instance "M53": Width narrower than recommended for a level 1 MOSFET.
+Instance "M54": Length shorter than recommended for a level 1 MOSFET.
+Instance "M54": Width narrower than recommended for a level 1 MOSFET.
+Instance "M59": Length shorter than recommended for a level 1 MOSFET.
+Instance "M59": Width narrower than recommended for a level 1 MOSFET.
+Instance "M60": Length shorter than recommended for a level 1 MOSFET.
+Instance "M60": Width narrower than recommended for a level 1 MOSFET.
+Instance "M61": Length shorter than recommended for a level 1 MOSFET.
+Instance "M61": Width narrower than recommended for a level 1 MOSFET.
+Instance "M62": Length shorter than recommended for a level 1 MOSFET.
+Instance "M62": Width narrower than recommended for a level 1 MOSFET.
+Instance "M63": Length shorter than recommended for a level 1 MOSFET.
+Instance "M63": Width narrower than recommended for a level 1 MOSFET.
+Instance "M64": Length shorter than recommended for a level 1 MOSFET.
+Instance "M64": Width narrower than recommended for a level 1 MOSFET.
+Instance "M71": Length shorter than recommended for a level 1 MOSFET.
+Instance "M71": Width narrower than recommended for a level 1 MOSFET.
+Instance "M72": Length shorter than recommended for a level 1 MOSFET.
+Instance "M72": Width narrower than recommended for a level 1 MOSFET.
+Instance "M73": Length shorter than recommended for a level 1 MOSFET.
+Instance "M73": Width narrower than recommended for a level 1 MOSFET.
+Instance "M74": Length shorter than recommended for a level 1 MOSFET.
+Instance "M74": Width narrower than recommended for a level 1 MOSFET.
+Instance "M75": Length shorter than recommended for a level 1 MOSFET.
+Instance "M75": Width narrower than recommended for a level 1 MOSFET.
+Instance "M76": Length shorter than recommended for a level 1 MOSFET.
+Instance "M76": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 1.172 seconds.
+
+Files loaded:
+C:\Users\imran\OneDrive\Documents\EDU\Course Material\EEE-4754\Project\2-bit Comparator Sultan.net
+C:\Users\imran\AppData\Local\LTspice\lib\cmp\standard.mos
+
